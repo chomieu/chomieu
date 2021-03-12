@@ -1,7 +1,7 @@
 ### Hi there, I'm Chomie 👋
 Certified Full-Stack Developer with B.S. degree from the University of Washington.
 
-| `React Portfolio` | `` |
+| `React Portfolio` | `Radcats Karaoke` |
 |:-:|:-:|
 | <div><a href="https:chomieu/com"><img height="125" alt="react-portfolio-preview" src="https://github.com/chomieu/React-Portfolio/blob/main/preview.gif"/></a></div> | <div><a href="https://radcats-karaoke.herokuapp.com"><img height="125" alt="radcats-karaoke-preview" src="https://github.com/chomieu/RadCaTS-Karaoke/blob/main/assets/rck-preview.gif"/></a></div> |
 
