@@ -1,5 +1,5 @@
 ### Hi there, I'm Chomie 👋
-[![Portfolio Badge](https://img.shields.io/badge/-Click_to_View_Portfolio-brightgreen?&logoColor=white&link=https://chomieu.com)](https://chomieu.com) 
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-brightgreen?&logoColor=white&link=https://chomieu.com)](https://chomieu.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-chomieu-blue?&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chomieu)](https://www.linkedin.com/in/chomieu) 
 [![Gmail Badge](https://img.shields.io/badge/-chomieu-c14438?&logo=Gmail&logoColor=white&link=mailto:chomieu@gmail.com)](mailto:chomieu@gmail.com)
 ![visitors](https://komarev.com/ghpvc/?username=chomieu&color=yellow)
