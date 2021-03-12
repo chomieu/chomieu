@@ -7,5 +7,3 @@ Certified Full-Stack Developer with B.S. degree from the University of Washingto
 
 * Currently working on a React Native mobile application
 * Looking for a full-time or an internship opportunity
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=chomieu&title_color=0366D6&bg_color=fff&icon_color=FFC404&text_color=626A72&show_icons=true&hide_border=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
