@@ -8,4 +8,4 @@ Certified Full-Stack Developer with B.S. degree from the University of Washingto
 * Currently working on a React Native mobile application
 * Looking for a full-time position or an internship opportunity
 
-[![Portfolio Badge](https://img.shields.io/badge/-Click_to_View_Portfolio-green?&logoColor=white&link=https://chomieu.com)](https://chomieu.com) 
+[![Portfolio Badge](https://img.shields.io/badge/-Click_to_View_Portfolio-brightgreen?&logoColor=white&link=https://chomieu.com)](https://chomieu.com) 
